@@ -62,7 +62,7 @@ We welcome contributions! 🚀 Feel free to submit PRs, suggest features, or rep
 MIT License - Free to use and modify.
 
 ## ✨ Contributors
-👤 **Sk Mastan** - [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourname)
+👤 **Sk Mastan** - [GitHub](https://github.com/mastaan66) | [LinkedIn](https://linkedin.com/in/sk-mastaan)
 
 ---
 🚀 **Faster Queries. Smarter Indexing. Optimized Performance!** ⚡
