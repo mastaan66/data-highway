@@ -1,1 +1,28 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# experiment outputs generated locally
+results/
+plots/
+experiment_results.csv
+*.log
+
+# os
+.DS_Store
+Thumbs.db
+
+# keep datasets and committed results
+!Datasets/
+!Inferential\ Results/
+!Descriptive\ Plots/
+
+# misc
 small.sql
